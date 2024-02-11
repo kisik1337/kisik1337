@@ -1,5 +1,5 @@
 
--Eng version
+- Eng version
 - 👋 Hi, I’m @kisik1337 but official - dikov<3
 - 👀 I’m interested in C++ ; LUA ; GLUA ; C ;C# ; PYTHON.
 - 🌱 I’m currently learning c++
@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'am dont know english perfectly
 
 
- -Ru version
+ - Ru version
 - 👋Привет,я @kisik1337 но официально я - dikov<3
 - 👀Я интересуюсь C++ ; LUA ; GLUA ; C ;C# ; PYTHON.
 - 🌱Сейчас я учу C++
